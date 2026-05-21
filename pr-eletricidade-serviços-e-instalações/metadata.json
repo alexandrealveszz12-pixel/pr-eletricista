@@ -1,0 +1,6 @@
+{
+  "name": "PR Eletricidade Serviços e Instalações",
+  "description": "Serviços de instalações e manutenção elétrica para residências e empresas. Portões automáticos, câmeras, painéis e mais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
